@@ -1,0 +1,34 @@
+#background{
+background-image: url('lg.jpg');
+    height: 504px;
+    width: 896px;
+}
+#hero {
+    background-color: transparent;
+    position: absolute;
+    top: 410px;
+    left: 420px;
+}
+.enemy {
+    background-image: url("enemy.jpg");
+    height: 46px;
+    width: 50px;
+    position: absolute;
+}
+.missle {
+    background-image: url("misle.png");
+    height: 8px;
+    width: 4px;
+    position: absolute;
+}
+
+#missles{
+    height: 504px;
+    width: 896px;
+    position: absolute;
+}
+#enemies{
+    height: 504px;
+    width: 896px;
+    position: absolute;
+}
