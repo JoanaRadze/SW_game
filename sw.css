@@ -11,8 +11,8 @@ background-image: url('lg.jpg');
 }
 .enemy {
     background-image: url("enemy.jpg");
-    height: 46px;
-    width: 50px;
+    width: 40px;
+    height: 36px;
     position: absolute;
 }
 .missle {
@@ -31,4 +31,8 @@ background-image: url('lg.jpg');
     height: 504px;
     width: 896px;
     position: absolute;
+}
+.buttons{
+    background-color: cornflowerblue;
+    width: 896px;
 }
